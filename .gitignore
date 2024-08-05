@@ -50,3 +50,19 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Autosave files
+*.asv
+*.m~
+*.autosave
+*.slx.r*
+*.mdl.r*
+
+# Compiled MEX files
+*.mex*
+
+# Cache files
+*.slxc
+
+# vscode
+.vscode/
