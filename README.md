@@ -1,25 +1,25 @@
 # surface-adaptation-control
 Repository for the study of surface adaptation control
 
-## Project description
+## 📋Project description
 ...
 
-## Development period
-...
+## 📆Development period
+- ...
 
-## Tech Stacks
-Language: C <br>
-Algorithm: MATLAB Simulink <br>
-IDE: Visual Studio Code 
+## 💻Tech Stacks
+- Language: C <br>
+- Algorithm: MATLAB Simulink <br>
+- IDE: Visual Studio Code 
 
-## Hardware components
-Single board computer: ... <br>
-DC motor: ... <br>
-Motor driver: ... <br>
-Battery: ... <br>
+## 🔨Hardware components
+- Single board computer: ... <br>
+- DC motor: ... <br>
+- Motor driver: ... <br>
+- Battery: ...
 
-## Controller design
-Admittance controller
+## 💡Controller design
+1. Admittance controller architecture
 
-## S/W Architecture
+## 📁S/W Architecture
 Directory structure
